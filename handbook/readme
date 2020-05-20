@@ -1,0 +1,32 @@
+https://gin-gonic.com/  [官方站点]
+https://gin-gonic.com/zh-cn/docs/  [中文手册]
+https://github.com/gin-gonic/gin  [github]
+https://www.jianshu.com/p/a31e4ee25305    [简书]
+https://www.kancloud.cn/shuangdeyu/gin_book/949420   [看云手册]
+
+
+1.使用 GET, POST, PUT, PATCH, DELETE, OPTIONS
+2.获取路径中的参数
+3.获取Get参数
+4.获取Post参数
+5.Get + Post 混合
+6.上传文件
+7.多文件上传
+8.路由分组
+9.无中间件启动
+10.使用中间件
+11.写日志文件
+12.自定义日志格式
+13.模拟绑定和验证  ===>指的是自动将客户端发送的body转为对应的json/xml/form等
+14.自定义验证器   ===>验证客户端传递的参数，绑定的同时可以进一步验证参数的额
+15.只绑定Get参数
+16.绑定Get参数或者Post参数
+17.绑定uri
+18.绑定HTML复选框
+19.绑定Post参数
+20.XML、JSON、YAML和ProtoBuf 渲染（输出格式）
+21.设置静态文件路径
+
+
+32.优雅重启或停止
+

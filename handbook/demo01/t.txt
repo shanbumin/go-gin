@@ -1,0 +1,8 @@
+curl -v  http://127.0.0.1:8080/someGet
+____________________________
+curl -v     http://127.0.0.1:8080/somePost -d 'age=14&cupSize=C'
+curl -v -X POST http://127.0.0.1:8080/somePost   -d 'age=14&cupSize=C'
+____________________________
+curl -v -X PUT -d "age=19&cupSize=C"    http://127.0.0.1:8080/somePut
+____________________________
+curl -v -X  DELETE      http://127.0.0.1:8080/someDelete
