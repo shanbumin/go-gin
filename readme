@@ -3,7 +3,7 @@
 
 安装:
   cd 到任意位置都可以,因为现在采用了go mod模式了
-  git clone   https://github.com/shanguoguo/go-gin.git
+  git clone   https://github.com/shanbumin/go-gin.git
 
 
 编辑器也要配置go mod
